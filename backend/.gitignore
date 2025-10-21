@@ -1,0 +1,7 @@
+# environment variable
+.env
+# Node dependencies
+node_modules/
+# Optional: logs or temporary files
+*.log
+.DS_Store
